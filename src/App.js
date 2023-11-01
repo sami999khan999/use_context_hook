@@ -1,5 +1,4 @@
 import { createContext } from "react";
-import "./App.css";
 import Comp1 from "./components/Comp1";
 
 export const PlayerContext = createContext();
